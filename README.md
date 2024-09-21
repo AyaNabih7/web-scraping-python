@@ -8,7 +8,7 @@ This project automates the process of scraping job listings from the Wuzzaf webs
 1. Machine Learning
 2. Data Analysis
 3. Data Science
-4. Data Science
+4. business intelligence
 
 
 **The script collects and stores the following details:**
